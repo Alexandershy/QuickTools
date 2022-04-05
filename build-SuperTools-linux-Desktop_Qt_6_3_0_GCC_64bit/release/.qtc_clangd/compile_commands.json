@@ -11,7 +11,6 @@
         "-nostdinc",
         "-nostdinc++",
         "-pipe",
-        "-g",
         "-std=gnu++1z",
         "-Wall",
         "-Wextra",
@@ -21,7 +20,7 @@
         "-m64",
         "--target=x86_64-linux-gnu",
         "-DQ_CREATOR_RUN",
-        "-DQT_QML_DEBUG",
+        "-DQT_NO_DEBUG",
         "-DQT_WIDGETS_LIB",
         "-DQT_GUI_LIB",
         "-DQT_CORE5COMPAT_LIB",
@@ -39,7 +38,7 @@
         "-I",
         "/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore",
         "-I",
-        "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit",
+        "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit/release",
         "-I",
         "/home/alexandershy/Qt/6.3.0/gcc_64/mkspecs/linux-g++",
         "-isystem",
@@ -68,7 +67,7 @@
         "-Wno-documentation-unknown-command",
         "/home/alexandershy/Documents/repos/SuperTools-Source/supertools.cpp"
     ],
-    "directory": "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit/.qtc_clangd",
+    "directory": "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit/release/.qtc_clangd",
     "file": "/home/alexandershy/Documents/repos/SuperTools-Source/supertools.cpp"
 }
 ]

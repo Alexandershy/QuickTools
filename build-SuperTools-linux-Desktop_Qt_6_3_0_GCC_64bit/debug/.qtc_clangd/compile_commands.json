@@ -39,7 +39,7 @@
         "-I",
         "/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore",
         "-I",
-        "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit",
+        "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit/debug",
         "-I",
         "/home/alexandershy/Qt/6.3.0/gcc_64/mkspecs/linux-g++",
         "-isystem",
@@ -68,7 +68,7 @@
         "-Wno-documentation-unknown-command",
         "/home/alexandershy/Documents/repos/SuperTools-Source/supertools.cpp"
     ],
-    "directory": "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit/.qtc_clangd",
+    "directory": "/home/alexandershy/Documents/repos/SuperTools-Build/build-SuperTools-linux-Desktop_Qt_6_3_0_GCC_64bit/debug/.qtc_clangd",
     "file": "/home/alexandershy/Documents/repos/SuperTools-Source/supertools.cpp"
 }
 ]
