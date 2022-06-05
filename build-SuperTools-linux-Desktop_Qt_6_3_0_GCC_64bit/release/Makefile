@@ -3483,32 +3483,7 @@ _superinit_.o: ../../../SuperTools-Source/__supertools__/__superinit__/_superini
 		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtGui/QPalette \
 		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/QLibrary \
 		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qlibrary.h \
-		ui__superinit_.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/QVariant \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtWidgets/QApplication \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtWidgets/qapplication.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qcoreapplication.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qeventloop.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qcoreapplication_platform.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qfuture.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qfutureinterface.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qmutex.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qresultstore.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qfuture_impl.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qthreadpool.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qrunnable.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qexception.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtCore/qpromise.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtGui/qguiapplication.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtGui/qinputmethod.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtGui/qguiapplication_platform.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtWidgets/QHBoxLayout \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtWidgets/QLineEdit \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtWidgets/qlineedit.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtGui/qtextcursor.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtGui/qtextformat.h \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtWidgets/QSpacerItem \
-		/home/alexandershy/Qt/6.3.0/gcc_64/include/QtWidgets/QVBoxLayout
+		ui__superinit_.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o _superinit_.o ../../../SuperTools-Source/__supertools__/__superinit__/_superinit_.cpp
 
 _supermain_.o: ../../../SuperTools-Source/__supertools__/__supermain__/_supermain_.cpp ../../../SuperTools-Source/__supertools__/__supermain__/_supermain_.h \
